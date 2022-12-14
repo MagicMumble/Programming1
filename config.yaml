@@ -1,0 +1,7 @@
+datapath: './eeg_data.csv'
+datapath_as2: './glucose.json'
+datapath_as3_conditions: './conditions.csv'
+datapath_as3_patients: './patients.csv'
+datapath_as3_observations: './observations.csv'
+datapath_as3_careplans: './careplans.csv'
+datapath_as3_encounters: './encounters.csv'
